@@ -1,4 +1,4 @@
-package D01.T01_Patterns;
+package D01.PatternsAndLogicBuilding;
 
 /*
     *********
